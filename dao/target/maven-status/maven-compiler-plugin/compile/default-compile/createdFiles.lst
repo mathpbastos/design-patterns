@@ -1,0 +1,4 @@
+com/learning/dao/dao/IFuncionarioDAO.class
+com/learning/dao/model/Funcionario.class
+com/learning/dao/dao/FuncionarioSQLiteDAO.class
+com/learning/dao/conexao/ConexaoSQLite.class
