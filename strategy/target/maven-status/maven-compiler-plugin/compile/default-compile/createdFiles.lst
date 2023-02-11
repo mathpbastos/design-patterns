@@ -1,0 +1,6 @@
+edu/learning/pagamento/EstrategiaPagamento.class
+edu/learning/AppRun.class
+edu/learning/pagamento/PagamentoCartaoCredito.class
+edu/learning/model/CartaoCredito.class
+edu/learning/pagamento/PagamentoPayPal.class
+edu/learning/model/Pedido.class

@@ -1,0 +1,8 @@
+edu/learning/chain/GmailHandler.class
+edu/learning/AppRun.class
+edu/learning/chain/ProtonMailHandler.class
+edu/learning/chain/AbstractEmailHandler.class
+edu/learning/model/Email.class
+edu/learning/chain/BolHandler.class
+edu/learning/chain/HotmailHandler.class
+edu/learning/chain/YahooHandler.class
