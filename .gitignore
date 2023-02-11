@@ -53,7 +53,9 @@ nb-configuration.xml
 # VSCode
 .vscode/
 .code-workspace
-/SistemaGestaoFuncionario/target/
+/adapter/target/
+/chain-of-responsibility/target/
+/strategy/target/
 
 .venv
 
