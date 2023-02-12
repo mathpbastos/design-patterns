@@ -60,3 +60,4 @@ observer/target/
 
 .venv
 
+/factory-method/target/
