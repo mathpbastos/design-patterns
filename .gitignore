@@ -61,3 +61,4 @@ observer/target/
 .venv
 
 /factory-method/target/
+/abstract-factory/target/
