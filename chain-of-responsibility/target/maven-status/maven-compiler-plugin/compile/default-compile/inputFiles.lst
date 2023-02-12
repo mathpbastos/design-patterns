@@ -1,8 +1,0 @@
-/home/b1n/codes/java/design-patterns/chain-of-responsibility/src/main/java/edu/learning/chain/AbstractEmailHandler.java
-/home/b1n/codes/java/design-patterns/chain-of-responsibility/src/main/java/edu/learning/AppRun.java
-/home/b1n/codes/java/design-patterns/chain-of-responsibility/src/main/java/edu/learning/chain/BolHandler.java
-/home/b1n/codes/java/design-patterns/chain-of-responsibility/src/main/java/edu/learning/chain/GmailHandler.java
-/home/b1n/codes/java/design-patterns/chain-of-responsibility/src/main/java/edu/learning/chain/ProtonMailHandler.java
-/home/b1n/codes/java/design-patterns/chain-of-responsibility/src/main/java/edu/learning/chain/YahooHandler.java
-/home/b1n/codes/java/design-patterns/chain-of-responsibility/src/main/java/edu/learning/chain/HotmailHandler.java
-/home/b1n/codes/java/design-patterns/chain-of-responsibility/src/main/java/edu/learning/model/Email.java

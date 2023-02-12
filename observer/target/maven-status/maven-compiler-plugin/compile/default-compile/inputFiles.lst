@@ -1,8 +1,0 @@
-/home/b1n/codes/java/design-patterns/observer/src/main/java/edu/learning/presenter/AtualizaCondicoesClimaticasPresenter.java
-/home/b1n/codes/java/design-patterns/observer/src/main/java/edu/learning/model/observer/IObserver.java
-/home/b1n/codes/java/design-patterns/observer/src/main/java/edu/learning/view/AtualizaCondicoesClimaticasView.java
-/home/b1n/codes/java/design-patterns/observer/src/main/java/edu/learning/presenter/TelaTemperaturaPresenter.java
-/home/b1n/codes/java/design-patterns/observer/src/main/java/edu/learning/AppRun.java
-/home/b1n/codes/java/design-patterns/observer/src/main/java/edu/learning/model/CondicoesClimaticas.java
-/home/b1n/codes/java/design-patterns/observer/src/main/java/edu/learning/view/TelaCondicoesClimaticasView.java
-/home/b1n/codes/java/design-patterns/observer/src/main/java/edu/learning/model/subject/ISubject.java
