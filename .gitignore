@@ -63,3 +63,4 @@ adapter/target/
 /factory-method/target/
 /abstract-factory/target/
 /state/target/
+/command/target/
