@@ -1,0 +1,11 @@
+edu/learning/presenter/TelaTemperaturaPresenter$1.class
+edu/learning/AppRun.class
+edu/learning/model/subject/ISubject.class
+edu/learning/view/AtualizaCondicoesClimaticasView$1.class
+edu/learning/view/TelaCondicoesClimaticasView.class
+edu/learning/presenter/AtualizaCondicoesClimaticasPresenter.class
+edu/learning/view/TelaCondicoesClimaticasView$1.class
+edu/learning/model/CondicoesClimaticas.class
+edu/learning/model/observer/IObserver.class
+edu/learning/view/AtualizaCondicoesClimaticasView.class
+edu/learning/presenter/TelaTemperaturaPresenter.class
