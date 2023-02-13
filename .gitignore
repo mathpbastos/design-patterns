@@ -64,3 +64,4 @@ adapter/target/
 /abstract-factory/target/
 /state/target/
 /command/target/
+/memento/target/
