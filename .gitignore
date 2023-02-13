@@ -65,3 +65,5 @@ adapter/target/
 /state/target/
 /command/target/
 /memento/target/
+/composite/target/
+/template-method/target/
